@@ -4,7 +4,7 @@
 
 https://gpt-3-landing-web-page.vercel.app/
 
-SCREENSHOTS:
+# SCREENSHOTS:
 
 ![GPT-3-1](https://github.com/Mitalicops/GPT-3-Landing-WebPage/assets/120451953/3c6ee4a8-4c26-4964-884d-54c627871d85)
 ![GPT-3-2](https://github.com/Mitalicops/GPT-3-Landing-WebPage/assets/120451953/2a512cee-f6d2-435b-bffb-dc6dfe4bf964)
